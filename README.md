@@ -21,7 +21,7 @@
 
 &nbsp;&nbsp;
 
-<a href="Zarah-siddiqui-7438573b0">
+<a href="https://www.linkedin.com/in/zarah-siddiqui-7438573b0">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
