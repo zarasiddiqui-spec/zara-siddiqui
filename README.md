@@ -11,6 +11,28 @@
   <p>
     <i>Passionate about Artificial Intelligence, Web Development & Problem Solving</i>
   </p>
+  <h2 align="center">💖 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/zarasiddiqui-spec>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="Zarah-siddiqui-7438573b0">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zarasiddiqui-spec/zarasiddiqui-spec/output/github-contribution-grid-snake.svg" width="100%">
+</p>
+
+  
 
   <p>
     <a href="https://github.com/YOUR_USERNAME">
