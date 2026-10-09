@@ -11,7 +11,6 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -19,7 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: shreyasingh7307588589-arch
+          github_user_name: zara-siddiqui-spec
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
